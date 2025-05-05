@@ -27,7 +27,7 @@ The key checkpoints for this assignment are,
 - [ ] [Write a report](#writing-report)
 - [ ] [Submit your work](#submission--grading)
 
-All deliverables are due by **Tuesday, October 22nd**. This is a group assignment, see the assignment policies for this class.[^1]
+This is a group assignment, see the assignment policies for this class.[^1]
 
 ## Task: Retrieval Augmented Generation (RAG)
 
@@ -155,7 +155,7 @@ All the code for your data preprocessing, model development and evaluation will 
 
 ## Generating results
 
-Finally, you will run your systems on our test set (questions only) and submit your results to us. This test set will be released the day before the assignment is due (**Monday, October 21st**).
+Finally, you will run your systems on our test set (questions only) and submit your results to us. This test set will be released the day before the assignment is due.
 
 ### Unseen test set
 
@@ -252,10 +252,6 @@ If you have any questions about whether a model or data is allowed, please ask o
 + Q) "*Is manual scraping prohibited?*"
     - A) Manual scraping is not prohibited. To what extent you would perform the task manually is up to you.
 
-## Acknowledgements
-
-This assignment was based on the [Spring 2024 version of this assignment](https://github.com/neubig/nlp-from-scratch-assignment-spring2024).
-
 ## References
 
 + Lewis et al., 2021. [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401).
@@ -268,7 +264,7 @@ This assignment was based on the [Spring 2024 version of this assignment](https:
 
 [^2]: See the [lecture notes](http://www.phontron.com/class/anlp2024/lectures/#experimental-design-and-human-annotation-feb-13) on experimental design and human annotation for guidance on annotation, size of test/train data, and general experimental design.
 
-[^3]: Create a private GitHub repo and give access to the TAs in charge of this assignment by the deadline. See piazza announcement post for our GitHub usernames.
+[^3]: Create a private GitHub repo and give access to the teacher in charge of this assignment by the deadline. 
 
 [^4]: Grading policy: http://www.phontron.com/class/anlp2024/course_details/#grading
 
