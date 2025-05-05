@@ -171,8 +171,7 @@ We ask you to write a report detailing various aspects about your end-to-end sys
 
 There will be a 7 page limit for the report, and there is no required template. However, we encourage you to use the [ACL template](https://github.com/acl-org/acl-style-files).
 
-> [!IMPORTANT]
-> Make sure you cite all your sources (open-source models, libraries, papers, blogs etc.,) in your report.
+Make sure you cite all your sources (open-source models, libraries, papers, blogs etc.,) in your report.
 
 ## Submission & Grading
 
